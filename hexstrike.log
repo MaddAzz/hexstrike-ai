@@ -1,0 +1,34 @@
+2025-10-19 08:44:02,591 - __main__ - INFO - 🔧 Process pool worker 0 started
+2025-10-19 08:44:02,591 - __main__ - INFO - 🔧 Process pool worker 1 started
+2025-10-19 08:44:02,592 - __main__ - INFO - 🔧 Process pool worker 2 started
+2025-10-19 08:44:02,592 - __main__ - INFO - 🔧 Process pool worker 3 started
+2025-10-19 08:44:02,644 - __main__ - INFO - [38;5;46m[1m╭─────────────────────────────────────────────────────────────────────────────╮[0m
+2025-10-19 08:44:02,644 - __main__ - INFO - [1m│[0m [38;5;51m🚀 Starting HexStrike AI Tools API Server[0m
+2025-10-19 08:44:02,645 - __main__ - INFO - [1m├─────────────────────────────────────────────────────────────────────────────┤[0m
+2025-10-19 08:44:02,645 - __main__ - INFO - [1m│[0m [38;5;208m🌐 Port:[0m 8888
+2025-10-19 08:44:02,645 - __main__ - INFO - [1m│[0m [38;5;208m🔧 Debug Mode:[0m True
+2025-10-19 08:44:02,645 - __main__ - INFO - [1m│[0m [38;5;129m💾 Cache Size:[0m 1000 | TTL: 3600s
+2025-10-19 08:44:02,645 - __main__ - INFO - [1m│[0m [38;5;240m⏱️  Command Timeout:[0m 300s
+2025-10-19 08:44:02,645 - __main__ - INFO - [1m│[0m [38;5;46m✨ Enhanced Visual Engine:[0m Active
+2025-10-19 08:44:02,645 - __main__ - INFO - [38;5;46m[1m╰─────────────────────────────────────────────────────────────────────────────╯[0m
+2025-10-19 08:44:02,660 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://172.30.0.2:8888
+2025-10-19 08:44:02,660 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 08:44:02,661 - werkzeug - INFO -  * Restarting with stat
+2025-10-19 08:44:03,299 - __main__ - INFO - 🔧 Process pool worker 0 started
+2025-10-19 08:44:03,299 - __main__ - INFO - 🔧 Process pool worker 1 started
+2025-10-19 08:44:03,300 - __main__ - INFO - 🔧 Process pool worker 2 started
+2025-10-19 08:44:03,300 - __main__ - INFO - 🔧 Process pool worker 3 started
+2025-10-19 08:44:03,335 - __main__ - INFO - [38;5;46m[1m╭─────────────────────────────────────────────────────────────────────────────╮[0m
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m│[0m [38;5;51m🚀 Starting HexStrike AI Tools API Server[0m
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m├─────────────────────────────────────────────────────────────────────────────┤[0m
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m│[0m [38;5;208m🌐 Port:[0m 8888
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m│[0m [38;5;208m🔧 Debug Mode:[0m True
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m│[0m [38;5;129m💾 Cache Size:[0m 1000 | TTL: 3600s
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m│[0m [38;5;240m⏱️  Command Timeout:[0m 300s
+2025-10-19 08:44:03,336 - __main__ - INFO - [1m│[0m [38;5;46m✨ Enhanced Visual Engine:[0m Active
+2025-10-19 08:44:03,336 - __main__ - INFO - [38;5;46m[1m╰─────────────────────────────────────────────────────────────────────────────╯[0m
+2025-10-19 08:44:03,343 - werkzeug - WARNING -  * Debugger is active!
+2025-10-19 08:44:03,347 - werkzeug - INFO -  * Debugger PIN: 724-232-970
