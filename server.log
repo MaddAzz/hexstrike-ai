@@ -1,0 +1,36 @@
+2025-10-19 09:44:28,840 - __main__ - INFO - 🔧 Process pool worker 0 started
+2025-10-19 09:44:28,844 - __main__ - INFO - 🔧 Process pool worker 1 started
+2025-10-19 09:44:28,844 - __main__ - INFO - 🔧 Process pool worker 2 started
+2025-10-19 09:44:28,844 - __main__ - INFO - 🔧 Process pool worker 3 started
+
+[38;5;196m[1m
+██╗  ██╗███████╗██╗  ██╗███████╗████████╗██████╗ ██╗██╗  ██╗███████╗
+██║  ██║██╔════╝╚██╗██╔╝██╔════╝╚══██╔══╝██╔══██╗██║██║ ██╔╝██╔════╝
+███████║█████╗   ╚███╔╝ ███████╗   ██║   ██████╔╝██║█████╔╝ █████╗
+██╔══██║██╔══╝   ██╔██╗ ╚════██║   ██║   ██╔══██╗██║██╔═██╗ ██╔══╝
+██║  ██║███████╗██╔╝ ██╗███████║   ██║   ██║  ██║██║██║  ██╗███████╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
+[0m
+[38;5;160m┌─────────────────────────────────────────────────────────────────────┐
+│  [97m🚀 HexStrike AI - Blood-Red Offensive Intelligence Core[38;5;160m        │
+│  [38;5;196m⚡ AI-Automated Recon | Exploitation | Analysis Pipeline[38;5;160m          │
+│  [38;5;124m🎯 Bug Bounty | CTF | Red Team | Zero-Day Research[38;5;160m              │
+└─────────────────────────────────────────────────────────────────────┘[0m
+
+[38;5;240m[INFO] Server starting on 127.0.0.1:8888
+[INFO] 150+ integrated modules | Adaptive AI decision engine active
+[INFO] Blood-red theme engaged – unified offensive operations UI[0m
+
+2025-10-19 09:44:28,934 - __main__ - INFO - [38;5;46m[1m╭─────────────────────────────────────────────────────────────────────────────╮[0m
+2025-10-19 09:44:28,934 - __main__ - INFO - [1m│[0m [38;5;51m🚀 Starting HexStrike AI Tools API Server[0m
+2025-10-19 09:44:28,934 - __main__ - INFO - [1m├─────────────────────────────────────────────────────────────────────────────┤[0m
+2025-10-19 09:44:28,935 - __main__ - INFO - [1m│[0m [38;5;208m🌐 Port:[0m 8888
+2025-10-19 09:44:28,935 - __main__ - INFO - [1m│[0m [38;5;208m🔧 Debug Mode:[0m True
+2025-10-19 09:44:28,935 - __main__ - INFO - [1m│[0m [38;5;129m💾 Cache Size:[0m 1000 | TTL: 3600s
+2025-10-19 09:44:28,935 - __main__ - INFO - [1m│[0m [38;5;240m⏱️  Command Timeout:[0m 300s
+2025-10-19 09:44:28,935 - __main__ - INFO - [1m│[0m [38;5;46m✨ Enhanced Visual Engine:[0m Active
+2025-10-19 09:44:28,935 - __main__ - INFO - [38;5;46m[1m╰─────────────────────────────────────────────────────────────────────────────╯[0m
+ * Serving Flask app 'hexstrike_server'
+ * Debug mode: on
+Address already in use
+Port 8888 is in use by another program. Either identify and stop that program, or start the server with a different port.
